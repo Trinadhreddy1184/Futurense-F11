@@ -1,5 +1,6 @@
 import os
 import tkinter
+import PyPDF2
 import time
 from tkinter import filedialog
 import threading
